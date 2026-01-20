@@ -90,7 +90,3 @@ This project simulates a **movie recommendation engine** using a synthetic Netfl
 - Integrate deep learning models for recommendations  
 - Build an interactive dashboard with Streamlit or Plotly  
 
-
----
-
-👉 Would you like me to also **add sample output screenshots/plots** (genre popularity, recommendations, ratings by genre) into the README so it looks more engaging on GitHub?
